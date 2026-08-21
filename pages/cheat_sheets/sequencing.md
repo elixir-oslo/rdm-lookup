@@ -96,8 +96,7 @@ This standard is required for submission of genetic variant data on [EVA](https:
 
 ## Storage and Computing
 #### [ELIXIR Norway](https://elixir.no) infrastructures
-- [The Norwegian e-infrastructure for Life Sciences (NeLS)](https://nels.bioinfo.no)
-  - Free of charge allocation of 1–10 TB disk space
+- [The Norwegian e-infrastructure for Life Sciences (NeLS)](https://nels.elixir.no)
   - Storing active research data for analysing and processing
   - Granular data sharing with collaborators
 - [National instance of Galaxy](https://usegalaxy.no/)
